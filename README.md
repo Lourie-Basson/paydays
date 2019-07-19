@@ -10,11 +10,11 @@
 * Monthly salary of R37,500.00
 * Pay day will be on the 25th of each month
 * Your __own__ styling
-* You are not allowed to display anything outside the given `app-inner` container unless you have any input fields from the __Bonus__ Objective you are free to palace that where you like.
+* You are not allowed to display anything outside the given `app-inner` container unless you have any input field from the __Bonus__ Objective you are free to place that where you like.
 
 
 ## Instructions
-* Create a feature branch from master in the following format [__yourName-payday__]
+* Create a feature branch from master in the following format [__$yourName-payday__]
 * When you are done or ran out of time __push__ what ever you have to your __feature branch__
 * You may use whatever JS date / time library you like.
 * You are not allowed to use any calendar packages or libraries (ie: react-calendar, calendar, calendar-js etc..)
